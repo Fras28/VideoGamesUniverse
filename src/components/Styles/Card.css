@@ -1,0 +1,45 @@
+.imgCard{
+    width: 100%;
+    height:100px ;
+    overflow:hidden;
+    object-fit: contain;
+    -webkit-transform:scale(1.2);transform:scale(1.2);
+
+}
+.card{
+    height: 300px;
+    width: 250px;
+    border: 1px solig rgba(255, 255, 255, 0.18);
+    padding-top: 1rem;
+    overflow:hidden;
+    background-color: rgba(0, 0, 0, 0.601);
+    padding: 1rem;  
+}
+.card:hover{
+    border: 10%;
+}
+
+.card:hover .imgCard {-webkit-transform:scale(1);transform:scale(1);}
+
+.card-description{
+    width: 100%; 
+}
+.bordeCard{
+    margin-top: 8%;
+    padding: 1rem;
+    overflow: hidden;
+}
+
+
+
+
+
+
+.text-title{
+    overflow: hidden;
+    white-space: pre;
+    background-color: transparent;
+    text-align: center;
+    color: white;
+    font-size: 1.5rem;
+}

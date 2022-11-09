@@ -1,0 +1,21 @@
+.contD{
+    max-width: 75%;
+    text-decoration-line: none;
+    margin: auto;
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255,255,255,0));
+    -webkit-backdrop-filter: blur(20px);
+    backdrop-filter: blur(10px);
+    border: 1px solig rgba(255, 255, 255, 0.18);
+    border-radius: 30px;
+    padding-top: 1rem;
+}
+
+.imgD{
+    border-radius: 30px;
+    max-width: 50%;
+
+}
+.pd{
+    padding-left: 2rem;
+    padding-right: 2rem;
+}

@@ -1,0 +1,33 @@
+.input {
+    color: wheat;
+    border-radius: 10px;
+    padding: 10px 25px;
+    background:  rgb(22, 22, 22);
+    max-width: 190px;
+    margin-bottom: 1.5rem;
+   }
+   
+   .input:active {
+    box-shadow: 2px 2px 15px #ff1867 inset;
+   }
+   .containerC {
+    max-width: 50%;
+    text-decoration-line: none;
+    margin: auto;
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255,255,255,0));
+    -webkit-backdrop-filter: blur(20px);
+    backdrop-filter: blur(10px);
+    border: 1px solig rgba(255, 255, 255, 0.18);
+    border-radius: 30px;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+   }
+.date{
+    color: wheat;
+    border: 2px solid #ff1867;
+    border-radius: 10px;
+    padding: 10px 25px;
+   background-color: rgb(22, 22, 22);
+    max-width: 190px;
+    margin-bottom: 1.5rem;
+}
